@@ -1,0 +1,42 @@
+/* Define the Maranallo font */
+@font-face {
+  font-family: "Maranallo";
+  src: url("../assets/fonts/maranallo-3.woff2") format("woff2"),
+    url("../assets/fonts/maranallo-3.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Maranallo", "Playfair Display", serif !important;
+}
+
+/* Footer Styling */
+footer {
+  text-align: center;
+  background-color: #003366; /* Navy Blue footer */
+  color: #ffffff; /* White text */
+  padding: 1em 0;
+}
+
+footer a {
+  color: #ffd700; /* Gold links in footer */
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+footer.md-footer {
+  display: none !important;
+}
+
+.share-buttons {
+  display: none !important;
+}
