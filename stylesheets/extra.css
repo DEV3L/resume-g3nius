@@ -24,6 +24,11 @@ h6 {
   font-family: "Dank Mono", monospace !important;
 }
 
+.italic {
+  font-family: "Dank Mono", monospace;
+  font-style: italic;
+}
+
 /* Footer Styling */
 footer {
   text-align: center;
