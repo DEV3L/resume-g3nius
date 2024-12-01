@@ -12,14 +12,16 @@ author: "Resume G3nius"
 date: "2024-11-30"
 ---
 
-# Welcome to **Resume G3nius**
+# Summon Your Dream Career
 
-<div style="text-align: center; background-image: url('images/home/hero-banner.png'); background-size: cover; background-position: center; padding: 120px 0; position: relative;">
-  <div style="position: absolute; inset: 0; background: rgba(0, 0, 0, 0.7);"></div>
-  <h2 style="font-size: 1.75rem; font-weight: 700; margin: 0; position: relative; text-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);">
-    Forge Your Career Path Today
+<div style="text-align: center; background-image: url('images/home/hero-banner.png'); background-size: cover; background-position: center; padding: 60px 0; position: relative; top: -16px;">
+  <div style="position: absolute; inset: 0; background: rgba(0, 0, 0, 0.8);"></div>
+  <h2 style="font-size: 3.75rem; font-weight: 700; margin: 0; position: relative; text-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);">
+    <span class="italic">Resume G3nius</span>
   </h2>
 </div>
+
+> <span class="monospace">Unlock tools, insights, and strategies for your career success</span>
 
 ---
 
@@ -31,27 +33,27 @@ Your journey starts here—build resumes that resonate, optimize your profession
 
 ---
 
-## **Unlock Your Career Tools**
+## **Your Career Toolkit**
 
-<img src="images/home/unlock-tools.png" alt="Professional tools glowing with a polished, modern energy" style="display: block; margin: auto; width: 100%; max-width: 450px; aspect-ratio: 5/6;">
+<img src="images/home/unlock-tools.png" alt="A glowing toolkit symbolizing professional career tools and empowerment" style="display: block; margin: auto; width: 100%; max-width: 450px; aspect-ratio: 5/6; margin-bottom: 20px;">
 
 <span class="italic">Resume G3nius</span> equips you with a powerful suite of tools designed to transform your professional journey:
 
-### Tailored Resumes
+### **Tailored Resumes**
 
-Create ATS-friendly resumes designed to grab attention and elevate your applications.
+Craft ATS-friendly resumes designed to pass filters, grab attention, and showcase your value.
 
-### LinkedIn Optimization
+### **LinkedIn Optimization**
 
-Boost your professional visibility with keyword-rich enhancements and proven strategies.
+Elevate your professional profile with recruiter-friendly enhancements and keyword-rich suggestions.
 
-### Gamified Personality Insights
+### **Gamified Personality Insights**
 
-Discover your career archetype and showcase your unique value with engaging, data-driven profiles.
+Discover your professional archetype and unique strengths with engaging, data-driven profiles.
 
-### Notebook LM Podcasts
+### **Notebook LM Podcasts**
 
-Personalized audio insights that inspire and guide you toward success.
+Gain personalized career insights through inspiring, dynamic audio guides tailored to your journey.
 
 [Explore All Features](features/index.md)
 
@@ -59,50 +61,61 @@ Personalized audio insights that inspire and guide you toward success.
 
 ## **Navigate Your Career Journey**
 
-Every career journey requires a strategic plan. With <span class="italic">Resume G3nius</span>, you’ll gain tools and insights to face challenges, seize opportunities, and take charge of your future:
+Every career journey is unique. At <span class="italic">Resume G3nius</span>, we equip you with tools to seize opportunities, face challenges, and unlock your potential:
 
-### Market Insights
+### **Market Insights**
 
-Stay ahead with real-time data on industry trends and in-demand skills.
+Stay ahead with real-time trends, salary benchmarks, and in-demand skill data.
 
-### Interactive Coaching
+### **Interactive Coaching**
 
-Prepare for interviews and pitches with role-specific mock scenarios.
+Prepare for interviews and career pivots with tailored mock scenarios and actionable feedback.
 
-### Achievement Badges
+### **Achievement Badges**
 
-Celebrate your progress with gamified rewards as you reach milestones.
+Celebrate your career growth with gamified rewards as you reach critical milestones.
+
+[Discover Our Services](services.md)
 
 ---
 
 ## **Success Stories**
 
-### **From Teacher to Tech Leader**
+### **A New Perspective**
 
 <img src="images/home/alchemist-transformation.png" 
      alt="A professional holding an enchanted resume glowing with amber and white energy. Behind them, faint glyphs float in a slate-grey gradient background, symbolizing transformation and newfound confidence in their career journey." 
-     style="display: block; margin: auto; width: 100%; max-width: 600px; aspect-ratio: 4/3;">
+     style="display: block; margin: auto; width: 100%; max-width: 600px; aspect-ratio: 4/3; margin-bottom: 20px;">
 
-_"<span class="italic">Resume G3nius</span> turned my diverse experience into a cohesive narrative. Their tools helped me land a leadership role in tech."_  
-— **Alex**, Career Transitioner
+_"Resume G3nius provided me with clarity and confidence. I used to dread working on my resume, but their tools helped me focus on presenting my value effectively. It worked—I landed a new role within weeks!"_  
+— **Cid Highwind**, Operations Specialist
 
 ---
 
 ### **Refining the Vision**
 
-<img src="images/home/refining-the-vision.png" alt="A professional sitting at a desk with glowing tools, symbolizing clarity and confidence in their career goals" style="display: block; margin: auto; width: 100%; max-width: 450px; aspect-ratio: 5/6;">
+<img src="images/home/refining-the-vision.png" alt="A professional sitting at a desk with glowing tools, symbolizing clarity and confidence in their career goals" style="display: block; margin: auto; width: 100%; max-width: 450px; aspect-ratio: 5/6; margin-bottom: 20px;">
 
-_"With <span class="italic">Resume G3nius</span>, I refined my LinkedIn profile and received tailored market insights. I landed a consulting role in no time."_  
-— **Jordan**, Aspiring Consultant
+_"With Resume G3nius, my LinkedIn profile was completely transformed. Their keyword-rich recommendations increased my visibility, and I received multiple interview invitations in less than a month."_  
+— **Aerith Gainsborough**, Marketing Consultant
 
 ---
 
-### **A Quick Win**
+### **Reclaiming Confidence**
 
-<img src="images/home/seekers-triumph.png" alt="A young professional celebrating their interim job success with glowing career tools" style="display: block; margin: auto; width: 100%; max-width: 600px; aspect-ratio: 4/3;">
+<img src="images/home/seekers-triumph.png" alt="A young professional celebrating their interim job success with glowing career tools" style="display: block; margin: auto; width: 100%; max-width: 600px; aspect-ratio: 4/3; margin-bottom: 20px;">
 
-_"The resume I received opened doors immediately. I secured an interim job while pursuing my creative aspirations."_  
-— **Taylor**, Career Seeker
+_"After struggling to present my professional strengths, Resume G3nius completely changed the game for me. Their personalized podcast and resume optimization gave me the confidence I needed to secure my dream job."_  
+— **Red XIII**, Creative Director
+
+---
+
+### **A Professional Edge**
+
+<img src="images/home/professional-edge.png" alt="A glowing, futuristic resume floating above a digital landscape, symbolizing career success and transformation" style="display: block; margin: auto; width: 100%; max-width: 600px; aspect-ratio: 4/3; margin-bottom: 20px;">
+
+_"Resume G3nius provided a level of professionalism and detail I’ve never seen before. They highlighted experiences I hadn’t even considered and delivered a resume that truly reflected my leadership potential."_  
+— **President Shinra**, Corporate Executive
 
 ---
 
@@ -116,23 +129,14 @@ Your dream job awaits, and <span class="italic">Resume G3nius</span> is here to 
 
 ---
 
-> _<span class="italic">Resume G3nius</span>: Precision. Insight. Opportunity._
+## **[Transform Your Career with Resume G3nius](contact.md)**
+
+<img src="images/cta-fantasy-contact.png" 
+     alt="Fantasy-inspired glowing message bubbles and ornate email boxes with elvish designs, symbolizing connection and transformation with Resume G3nius" 
+     style="display: block; margin: auto; width: 100%; max-width: 800px; margin-bottom: 20px; aspect-ratio: 16 / 9;">
+
+Your career deserves tools that empower you to shine. Whether it’s a tailored resume, an optimized LinkedIn profile, or insights to guide your next step, <span class="italic">Resume G3nius</span> is here to make it happen.
+
+[Visit Our Contact Page](contact.md) to start transforming your future today.
 
 ---
-
-## **Join the League of Professionals**
-
-- **LinkedIn Presence**: [Follow Us on LinkedIn](https://www.linkedin.com/company/dev3loper-ai/)
-- **Email Us**: dev3loper.ai@gmail.com
-
-Ready to level up your career? <span class="italic">Resume G3nius</span> gives you the tools and insights to make it happen. From standout resumes to actionable insights, we’re here to empower your success.
-
-[Begin Your Journey](contact.md)
-
----
-
-## **Ready to Transform Your Career?**
-
-Don’t let your dream job remain a dream. Partner with <span class="italic">Resume G3nius</span> today and turn your ambitions into reality. Together, we’ll craft your story, refine your brand, and pave the way for your success.
-
-[Unlock Your Potential Now](pricing.md)
