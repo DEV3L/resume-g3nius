@@ -24,6 +24,10 @@ h6 {
   font-family: "Dank Mono", monospace !important;
 }
 
+.monospace {
+  font-family: "Dank Mono", monospace;
+}
+
 .italic {
   font-family: "Dank Mono", monospace;
   font-style: italic;
