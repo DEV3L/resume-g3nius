@@ -20,18 +20,16 @@ theme:
 # Navigation Structure
 nav:
   - Home: index.md
-  - About: about.md
   - Services: services.md
-  # - Features:
-  #     - Overview: features/index.md
-  #     - Resumes: features/resumes.md
-  #     - LinkedIn Profiles: features/linkedin.md
-  #     - Personality Reports: features/personality.md
-  #     - Mock Scenarios: features/mock-scenarios.md
-  #     - Market Insights: features/market-insights.md
-  #     - Notebook LM: features/notebook-lm.md
-  # - Pricing: pricing.md
-  # - Testimonials: testimonials.md
+  - Features:
+      - Overview: features/index.md
+      - Resume Builder: features/resumes.md
+      - LinkedIn Optimization: features/linkedin.md
+      - Personality Insights: features/personality.md
+      - Notebook LM: features/notebook-lm.md
+      - Market Insights: features/market-insights.md
+  - Pricing: pricing.md
+  - About: about.md
   - Contact: contact.md
 
 # Plugins

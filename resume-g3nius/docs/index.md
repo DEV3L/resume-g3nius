@@ -121,7 +121,7 @@ _"Resume G3nius provided a level of professionalism and detail I’ve never seen
 
 ## **Embark on Your Journey Today**
 
-<img src="images/home/embark-journey.png" alt="A professional stepping confidently into a glowing pathway representing career success" style="display: block; margin: auto; width: 100%; margin-bottom: 20px; aspect-ratio: 16/9;">
+<img src="images/home/embark-journey.png" alt="A glowing resume hovering above an executive desk in a high-rise office with a panoramic city skyline, symbolizing professionalism and leadership potential." style="display: block; margin: auto; width: 100%; margin-bottom: 20px; aspect-ratio: 16/9;">
 
 Your dream job awaits, and <span class="italic">Resume G3nius</span> is here to make it happen. With precision-crafted tools and personalized guidance, we’re your partner in professional growth.
 
