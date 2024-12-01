@@ -1,0 +1,57 @@
+# Site Information
+site_name: Resume G3nius
+site_url: https://dev3l.github.io/resume-g3nius/
+site_author: Justin Beall
+site_description: "Resume G3nius is an AI-powered ecosystem designed to redefine professional branding and career growth. Combining innovative AI technologies, gamification, and dynamic personalization to craft standout resumes, optimize LinkedIn profiles, and provide actionable career insights."
+
+# Theme Configuration
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: gray
+
+  font:
+    header: "Dank Mono"
+    text: Inter
+  favicon: "images/favicon.png"
+  logo: "images/logo.png"
+
+# Navigation Structure
+nav:
+  - Home: index.md
+  - About: about.md
+  - Portfolio:
+  - Services: services.md
+  - Contact: contact.md
+
+# Plugins
+plugins:
+  - search
+  - macros
+  - ultralytics:
+      verbose: true
+      enabled: true
+      add_desc: true
+      add_image: true
+      add_keywords: true
+      add_json_ld: true
+      add_css: true
+  - minify_html
+
+# Markdown Extensions
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - footnotes
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - overrides/footer.js
