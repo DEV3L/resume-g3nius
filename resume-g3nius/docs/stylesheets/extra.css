@@ -1,0 +1,50 @@
+/* Define the Dank Mono font */
+@font-face {
+  font-family: "Dank Mono";
+  src: url("../assets/fonts/DankMono-Regular.woff2") format("woff2"),
+    url("../assets/fonts/DankMono-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Dank Mono";
+  src: url("../assets/fonts/DankMono-Italic.woff2") format("woff2"),
+    url("../assets/fonts/DankMono-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Dank Mono", monospace !important;
+}
+
+/* Footer Styling */
+footer {
+  text-align: center;
+  background-color: #003366; /* Navy Blue footer */
+  color: #ffffff; /* White text */
+  padding: 1em 0;
+}
+
+footer a {
+  color: #ffd700; /* Gold links in footer */
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+footer.md-footer {
+  display: none !important;
+}
+
+.share-buttons {
+  display: none !important;
+}

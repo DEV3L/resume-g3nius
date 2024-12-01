@@ -9,7 +9,7 @@ theme:
   name: material
   palette:
     scheme: slate
-    primary: gray
+    primary: blue grey
 
   font:
     header: "Dank Mono"
@@ -21,8 +21,17 @@ theme:
 nav:
   - Home: index.md
   - About: about.md
-  - Portfolio:
   - Services: services.md
+  # - Features:
+  #     - Overview: features/index.md
+  #     - Resumes: features/resumes.md
+  #     - LinkedIn Profiles: features/linkedin.md
+  #     - Personality Reports: features/personality.md
+  #     - Mock Scenarios: features/mock-scenarios.md
+  #     - Market Insights: features/market-insights.md
+  #     - Notebook LM: features/notebook-lm.md
+  # - Pricing: pricing.md
+  # - Testimonials: testimonials.md
   - Contact: contact.md
 
 # Plugins
