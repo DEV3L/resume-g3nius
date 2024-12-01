@@ -1,10 +1,18 @@
-/* Define the Maranallo font */
+/* Define the Dank Mono font */
 @font-face {
-  font-family: "Maranallo";
-  src: url("../assets/fonts/maranallo-3.woff2") format("woff2"),
-    url("../assets/fonts/maranallo-3.ttf") format("truetype");
+  font-family: "Dank Mono";
+  src: url("../assets/fonts/DankMono-Regular.woff2") format("woff2"),
+    url("../assets/fonts/DankMono-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
+}
+
+@font-face {
+  font-family: "Dank Mono";
+  src: url("../assets/fonts/DankMono-Italic.woff2") format("woff2"),
+    url("../assets/fonts/DankMono-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
 }
 
 h1,
@@ -13,7 +21,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Maranallo", "Playfair Display", serif !important;
+  font-family: "Dank Mono", monospace !important;
 }
 
 /* Footer Styling */
