@@ -1,55 +1,62 @@
-# AI-Powered Resume Builder
+---
+title: "Resume Optimization | Resume G3nius"
+description: "Craft resumes that conquer ATS systems and captivate recruiters with Resume G3nius. Enhance your professional branding with tailored, AI-powered resume optimization."
+keywords:
+  - ATS-compliant resumes
+  - professional resume customization
+  - tailored resumes
+  - resume branding
+  - career tools
+image: "../../images/features/resume-banner.png"
+author: "Resume G3nius"
+date: "2024-12-02"
+---
 
-Create powerful, ATS-optimized resumes in minutes with our advanced AI resume builder. Stand out to employers and pass automated screening systems with professionally crafted resumes.
+# Resume Optimization
 
-## Core Features
+<div style="text-align: center; background-image: url('../../images/features/resume-banner.png'); background-size: cover; background-position: center; padding: 60px 0; position: relative; top: -16px;">
+  <div style="position: absolute; inset: 0; background: rgba(0, 0, 0, 0.8);"></div>
+  <h2 style="font-size: 2.75rem; font-weight: 700; margin: 0; position: relative; text-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);">
+    Tailored Resumes That Get Results
+  </h2>
+</div>
 
-### Smart Content Generation
+---
 
-- **Experience Optimizer**: Transform bullet points into powerful achievement statements
-- **Skill Analyzer**: Automatically identify and highlight relevant skills
-- **Keyword Integration**: Strategic placement of industry-specific keywords
-- **Action Verb Enhancement**: Dynamic verb suggestions for impact
+## **Craft Resumes That Conquer and Captivate**
 
-### ATS Optimization
+<span class="italic">Resume G3nius</span> empowers you to craft resumes that pass Applicant Tracking Systems (ATS) and capture recruiter attention. Our **AI-powered resume optimization** ensures your application not only gets noticed but also highlights your unique strengths.
 
-- **Format Compatibility**: Ensure compatibility with all major ATS systems
-- **Keyword Analysis**: Match your resume to job descriptions
-- **Readability Score**: Optimize content for both AI and human readers
-- **Technical Validation**: Check for parsing issues and formatting errors
+### **What We Offer:**
 
-### Design & Formatting
+- **ATS-Compliant Resumes**: Keyword-rich resumes designed to navigate ATS filters and algorithms seamlessly.
+- **Human-Readable Resumes**: Visually appealing resumes tailored to recruiter preferences, showcasing your value at a glance.
 
-- **Professional Templates**: Industry-specific resume designs
-- **Dynamic Layouts**: Automatic space optimization
-- **Brand Consistency**: Maintain your professional brand identity
-- **Export Options**: Multiple file formats (PDF, DOCX, TXT)
+<img src="../../images/features/resume-preview.png" class="wider-image">
 
-## Smart Features
+---
 
-### AI Analysis
+## **Pricing and Availability**
 
-- **Job Match Score**: See how well your resume matches job requirements
-- **Impact Metrics**: Quantify your achievements effectively
-- **Industry Alignment**: Tailor content to your target industry
-- **Competition Analysis**: Stand out from other candidates
+### **Included in Plans:**
 
-### Version Control
+- **Standard Plan**: Includes ATS-compliant resumes.
+- **Pro Plan**: Includes both ATS-compliant and human-readable resumes.
 
-- **Multiple Versions**: Create targeted resumes for different roles
-- **Change Tracking**: Monitor resume evolution
-- **A/B Testing**: Compare different versions' effectiveness
-- **Automatic Backups**: Never lose your progress
+### **Add-On Pricing:**
 
-## Success Metrics
+- **Additional Revision**: $25 per revision for fine-tuning and enhancements.
 
-### Proven Results
+---
 
-Our resume builder helps achieve:
+## **[Transform Your Resume Today](../contact.md)**
 
-- 80% faster resume creation
-- 3x more interview invitations
-- 90% ATS pass rate
-- 70% higher response rate
+Your resume is the gateway to your next opportunity. Let <span class="italic">Resume G3nius</span> craft a resume that reflects your brilliance and lands you interviews.
 
-[Create Your Resume](../pricing.md) {: .md-button .md-button--primary }
+[Start the Conversation](../contact.md)
+
+<img src="../../images/cta-fantasy-contact.png" class="banner-image">
+
+<span class="italic">Resume G3nius</span><span class="monospace">: Precision. Insight. Opportunity.</span>
+
+---

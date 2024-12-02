@@ -28,6 +28,7 @@ nav:
       - Personality Insights: features/personality.md
       - Notebook LM: features/notebook-lm.md
       - Market Insights: features/market-insights.md
+      - Organizations: features/organizations.md
   - Pricing: pricing.md
   - About: about.md
   - Contact: contact.md
