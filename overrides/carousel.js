@@ -1,16 +1,15 @@
-let slideIndex = 0;
 let carouselIndex = 0;
 let carouselInterval;
 
-const navigateSlides = (currentIndex) => {
+const nextSlide = (currentIndex) => {
   clearTimeout(carouselInterval);
   showSlide(currentIndex + 1);
 };
 
 const showSlide = (index) => {
-  const slides = document.getElementsByClassName("slide-show");
+  const slides = document.getElementsByClassName("carousel");
 
-  slideIndex = (index + slides.length) % slides.length;
+  let slideIndex = (index + slides.length) % slides.length;
 
   Array.from(slides).forEach((slide) => {
     slide.style.display = "none";
@@ -21,7 +20,12 @@ const showSlide = (index) => {
 };
 
 const carousel = () => {
-  const slides = document.getElementsByClassName("slide-show");
+  const slides = document.getElementsByClassName("carousel");
+
+  if (slides.length === 0) {
+    console.warn("No carousel elements found.");
+    return;
+  }
 
   Array.from(slides).forEach((slide) => {
     slide.style.opacity = "0";
@@ -34,5 +38,4 @@ const carousel = () => {
 
   carouselInterval = setTimeout(carousel, 10000);
 };
-
 carousel();
