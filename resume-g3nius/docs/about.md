@@ -97,6 +97,6 @@ Your career deserves tools that empower you to shine. Whether it’s a tailored 
      alt="Fantasy-inspired glowing message bubbles and ornate email boxes with elvish designs, symbolizing connection and transformation with Resume G3nius" 
      style="display: block; margin: auto; width: 100%; max-width: 800px; margin-bottom: 20px; aspect-ratio: 16 / 9;">
 
-> <span class="italic">Resume G3nius</span><span class="monospace">: Precision. Insight. Opportunity.</span>
+<span class="italic">Resume G3nius</span><span class="monospace">: Precision. Insight. Opportunity.</span>
 
 ---
