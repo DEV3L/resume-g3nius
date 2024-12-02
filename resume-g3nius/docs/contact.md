@@ -13,9 +13,14 @@ date: "2024-11-30"
 
 # Contact Resume G3nius
 
-<img src="../images/contact/resume-g3nius-contact-banner.png" alt="Empower your career with AI and gamification at <span class='italic'>Resume G3nius</span>" style="display: block; margin: auto; width: 100%; max-width: 800px; margin-bottom: 20px;">
+<div style="text-align: center; background-image: url('../images/contact/resume-g3nius-contact-banner.png'); background-size: cover; background-position: center; padding: 60px 0; position: relative; top: -16px;">
+  <div style="position: absolute; inset: 0; background: rgba(0, 0, 0, 0.8);"></div>
+  <h2 style="font-size: 2.75rem; font-weight: 700; margin: 0; position: relative; text-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);">
+    Start Your Career Transformation
+  </h2>
+</div>
 
-## **Start Your Career Transformation—Risk-Free**
+---
 
 At <span class="italic">Resume G3nius</span>, we believe it costs nothing to start a conversation. Whether you're exploring options or ready to take the next big step in your career, reach out with confidence.
 

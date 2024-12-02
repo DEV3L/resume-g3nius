@@ -16,7 +16,7 @@ date: "2024-12-01"
 
 <div style="text-align: center; background-image: url('../images/pricing/pricing-hero.png'); background-size: cover; background-position: center; padding: 60px 0; position: relative; top: -16px;">
   <div style="position: absolute; inset: 0; background: rgba(0, 0, 0, 0.8);"></div>
-  <h2 style="font-size: 3.0rem; font-weight: 700; margin: 0; position: relative; text-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);">
+  <h2 style="font-size: 2.75rem; font-weight: 700; margin: 0; position: relative; text-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);">
     Empower Your Career
   </h2>
 </div>

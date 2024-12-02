@@ -14,9 +14,14 @@ date: "2024-11-30"
 
 # About Resume G3nius
 
-<img src="../images/about/resume-g3nius-about-banner.png" alt="Empowering your career journey with Resume G3nius" style="display: block; margin: auto; width: 100%; max-width: 800px; margin-bottom: 20px;">
+<div style="text-align: center; background-image: url('../images/about/resume-g3nius-about-banner.png'); background-size: cover; background-position: center; padding: 60px 0; position: relative; top: -16px;">
+  <div style="position: absolute; inset: 0; background: rgba(0, 0, 0, 0.8);"></div>
+  <h2 style="font-size: 2.75rem; font-weight: 700; margin: 0; position: relative; text-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);">
+    Empowering Careers, One Step at a Time
+  </h2>
+</div>
 
-## **Empowering Careers, One Step at a Time**
+---
 
 At <span class="italic">Resume G3nius</span>, we believe every career journey is unique and deserves tools that empower success. By combining cutting-edge AI, innovative gamification, and personalized support, we’re redefining how professionals present themselves to the world. From tailored resumes to interactive career coaching, our mission is simple: empower your brilliance.
 
@@ -82,6 +87,7 @@ We’re driven by principles that guide everything we do:
 - **Empowerment**: Giving users the tools to own their career journey.
 - **Accessibility**: Making professional transformation available to everyone, regardless of background.
 - **Democratization**: Ensuring every qualified professional has the tools to compete for opportunities fairly.
+- **Fun**: We believe in making the process of career transformation fun and engaging.
 
 ---
 

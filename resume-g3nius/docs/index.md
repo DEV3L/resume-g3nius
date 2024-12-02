@@ -16,7 +16,7 @@ date: "2024-11-30"
 
 <div style="text-align: center; background-image: url('images/home/hero-banner.png'); background-size: cover; background-position: center; padding: 60px 0; position: relative; top: -16px;">
   <div style="position: absolute; inset: 0; background: rgba(0, 0, 0, 0.8);"></div>
-  <h2 style="font-size: 3.75rem; font-weight: 700; margin: 0; position: relative; text-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);">
+  <h2 style="font-size: 3.5rem; font-weight: 700; margin: 0; position: relative; text-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);">
     <span class="italic">Resume G3nius</span>
   </h2>
 </div>
@@ -30,6 +30,16 @@ date: "2024-11-30"
 At <span class="italic">Resume G3nius</span>, we empower professionals to craft their career stories with precision and confidence. By combining cutting-edge AI tools with actionable insights, we help you unlock opportunities and thrive in today’s competitive job market.
 
 Your journey starts here—build resumes that resonate, optimize your professional brand, and elevate your career potential.
+
+---
+
+### **Take the First Step—It’s Free to Start**
+
+Discover how <span class="italic">Resume G3nius</span> can transform your career journey. Whether you need a standout resume, an optimized LinkedIn profile, or gamified career insights, our tools are designed to empower your brilliance.
+
+**It costs nothing to start the conversation.**
+
+[Start the Conversation](contact.md)
 
 ---
 
