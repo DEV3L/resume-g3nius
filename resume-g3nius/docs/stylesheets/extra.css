@@ -68,3 +68,12 @@ footer.md-footer {
   margin-bottom: 20px;
   aspect-ratio: 16 / 9;
 }
+
+.wide-image {
+  display: block;
+  margin: auto;
+  width: 100%;
+  max-width: 450px;
+  aspect-ratio: 3 / 2;
+  margin-bottom: 20px;
+}

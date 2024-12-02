@@ -85,11 +85,11 @@ We’re driven by principles that guide everything we do:
 
 ---
 
-## **[Transform Your Career with Resume G3nius](../contact.md)**
+## **[Transform Your Career with Resume G3nius](contact.md)**
 
 Your career deserves tools that empower you to shine. Whether it’s a tailored resume, an optimized LinkedIn profile, or insights to guide your next step, <span class="italic">Resume G3nius</span> is here to make it happen.
 
-[Visit Our Contact Page](../contact.md) to start transforming your future today.
+[Visit Our Contact Page](contact.md) to start transforming your future today.
 
 <img src="../images/cta-fantasy-contact.png" class="banner-image">
 

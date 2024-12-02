@@ -31,7 +31,7 @@ Resume G3nius combines cutting-edge AI, gamification, and dynamic personalizatio
 
 ### **1. Resume Optimization**
 
-<img src="../images/features/resume-optimization.png" alt="A polished resume glowing on a table" style="display: block; margin: auto; width: 100%; max-width: 400px; aspect-ratio: 4/5; margin-bottom: 20px;">
+<img src="../images/features/resume-optimization.png" class="wide-image" />
 
 **Craft Resumes That Get Results**
 
@@ -46,7 +46,7 @@ Enhance your career materials with AI-powered resume optimization tailored for b
 
 ### **2. LinkedIn Suggestions Report**
 
-<img src="../images/features/linkedin-optimization.png" alt="LinkedIn profile optimization graphic" style="display: block; margin: auto; width: 100%; max-width: 400px; aspect-ratio: 4/5; margin-bottom: 20px;">
+<img src="../images/features/linkedin-optimization.png" class="wide-image" />
 
 **Stand Out on LinkedIn**
 
@@ -55,13 +55,13 @@ Build a professional, keyword-optimized profile that enhances visibility and eng
 - **Actionable Recommendations:** Enhance headlines, summaries, and activity.
 - **Keyword Alignment:** Match market demands and recruiter expectations.
 
-[Learn More](./linkedin-insights.md)
+[Learn More](./linkedin.md)
 
 ---
 
 ### **3. Career and Market Analysis Report**
 
-<img src="../images/features/market-insights.png" alt="Market analysis dashboard glowing with career insights" style="display: block; margin: auto; width: 100%; max-width: 400px; aspect-ratio: 4/5; margin-bottom: 20px;">
+<img src="../images/features/market-insights.png" class="wide-image" />
 
 **Navigate the Job Market with Confidence**
 
@@ -76,7 +76,7 @@ Access real-time market data and tailored insights to align your career with evo
 
 ### **4. Professional Mock Scenarios Report**
 
-<img src="../images/features/mock-scenarios.png" alt="Interactive mock interview session glowing with career preparation tools" style="display: block; margin: auto; width: 100%; max-width: 400px; aspect-ratio: 4/5; margin-bottom: 20px;">
+<img src="../images/features/mock-scenarios.png" class="wide-image" />
 
 **Prepare for High-Stakes Scenarios**
 
@@ -91,7 +91,7 @@ Gain confidence with tailored mock interviews and exercises that refine articula
 
 ### **5. Professional Personality Profiles**
 
-<img src="../images/features/personality-insights.png" alt="A glowing career archetype card featuring D&D-style traits" style="display: block; margin: auto; width: 100%; max-width: 400px; aspect-ratio: 4/5; margin-bottom: 20px;">
+<img src="../images/features/personality-insights.png" class="wide-image" />
 
 **Discover Your Unique Strengths**
 
@@ -107,7 +107,7 @@ Unleash your potential with gamified personality insights and narrative-driven p
 
 ### **6. Notebook LM Motivational Summary Podcast**
 
-<img src="../images/features/podcast-summary.png" alt="Personalized motivational podcast glowing with insights" style="display: block; margin: auto; width: 100%; max-width: 400px; aspect-ratio: 4/5; margin-bottom: 20px;">
+<img src="../images/features/podcast-summary.png" class="wide-image" />
 
 **Stay Inspired on Your Career Journey**
 
@@ -122,7 +122,7 @@ Listen to personalized audio insights crafted to guide and motivate you.
 
 ## **Custom Solutions for Organizations**
 
-<img src="../images/pricing/group-offer.png" class="banner-image">
+<img src="../images/features/group-offer.png" class="banner-image">
 
 Looking to empower your team or elevate candidates at scale? <span class="italic">Resume G3nius</span> offers bulk resume optimization, LinkedIn enhancements, and tailored career services for organizations.
 
@@ -143,6 +143,7 @@ At <span class="italic">Resume G3nius</span>, we provide tools that empower prof
 - **Advanced AI:** Precision-tailored outputs for job seekers and teams.
 - **Gamification:** Unique, engaging tools for personal and professional growth.
 - **End-to-End Support:** From resumes to coaching, we ensure success.
+- **Risk-Free Commitment:** It costs nothing to start a conversation—explore your options with confidence and no obligation.
 
 ---
 
