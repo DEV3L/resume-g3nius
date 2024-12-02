@@ -58,7 +58,9 @@ markdown_extensions:
   - footnotes
 
 extra_css:
+  - stylesheets/carousel.css
   - stylesheets/extra.css
 
 extra_javascript:
+  - overrides/carousel.js
   - overrides/footer.js

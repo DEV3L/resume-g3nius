@@ -57,13 +57,3 @@ footer.md-footer {
 .share-buttons {
   display: none !important;
 }
-
-.slide-show {
-  transition: opacity 2s ease-in-out;
-  opacity: 0;
-  display: none;
-}
-
-.slide-show.active {
-  opacity: 1;
-}
