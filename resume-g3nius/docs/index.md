@@ -59,27 +59,9 @@ Gain personalized career insights through inspiring, dynamic audio guides tailor
 
 ---
 
-## **Navigate Your Career Journey**
+## **Success Stories**
 
 Every career journey is unique. At <span class="italic">Resume G3nius</span>, we equip you with tools to seize opportunities, face challenges, and unlock your potential:
-
-### **Market Insights**
-
-Stay ahead with real-time trends, salary benchmarks, and in-demand skill data.
-
-### **Interactive Coaching**
-
-Prepare for interviews and career pivots with tailored mock scenarios and actionable feedback.
-
-### **Achievement Badges**
-
-Celebrate your career growth with gamified rewards as you reach critical milestones.
-
-[Discover Our Services](services.md)
-
----
-
-## **Success Stories**
 
 ### **A New Perspective**
 
@@ -121,22 +103,20 @@ _"Resume G3nius provided a level of professionalism and detail I’ve never seen
 
 ## **Embark on Your Journey Today**
 
-<img src="images/home/embark-journey.png" alt="A glowing resume hovering above an executive desk in a high-rise office with a panoramic city skyline, symbolizing professionalism and leadership potential." style="display: block; margin: auto; width: 100%; margin-bottom: 20px; aspect-ratio: 16/9;">
+<img src="images/home/embark-journey.png" class="banner-image">
 
 Your dream job awaits, and <span class="italic">Resume G3nius</span> is here to make it happen. With precision-crafted tools and personalized guidance, we’re your partner in professional growth.
-
-[Get Started](pricing.md) or [Contact Us](contact.md)
 
 ---
 
 ## **[Transform Your Career with Resume G3nius](contact.md)**
 
-<img src="images/cta-fantasy-contact.png" 
-     alt="Fantasy-inspired glowing message bubbles and ornate email boxes with elvish designs, symbolizing connection and transformation with Resume G3nius" 
-     style="display: block; margin: auto; width: 100%; max-width: 800px; margin-bottom: 20px; aspect-ratio: 16 / 9;">
-
 Your career deserves tools that empower you to shine. Whether it’s a tailored resume, an optimized LinkedIn profile, or insights to guide your next step, <span class="italic">Resume G3nius</span> is here to make it happen.
 
 [Visit Our Contact Page](contact.md) to start transforming your future today.
+
+<img src="images/cta-fantasy-contact.png" class="banner-image">
+
+<span class="italic">Resume G3nius</span><span class="monospace">: Precision. Insight. Opportunity.</span>
 
 ---

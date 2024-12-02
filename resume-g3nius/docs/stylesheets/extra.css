@@ -57,3 +57,14 @@ footer.md-footer {
 .share-buttons {
   display: none !important;
 }
+
+/* image styling */
+
+.banner-image {
+  display: block;
+  margin: auto;
+  width: 100%;
+  max-width: 800px;
+  margin-bottom: 20px;
+  aspect-ratio: 16 / 9;
+}

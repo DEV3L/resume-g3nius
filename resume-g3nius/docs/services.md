@@ -127,9 +127,7 @@ Your career deserves tools that empower you to shine. Whether it’s a tailored 
 
 [Visit Our Contact Page](contact.md) to start transforming your future today.
 
-<img src="../images/cta-fantasy-contact.png" 
-     alt="Fantasy-inspired glowing message bubbles and ornate email boxes with elvish designs, symbolizing connection and transformation with Resume G3nius" 
-     style="display: block; margin: auto; width: 100%; max-width: 800px; margin-bottom: 20px; aspect-ratio: 16 / 9;">
+<img src="../images/cta-fantasy-contact.png" class="banner-image">
 
 <span class="italic">Resume G3nius</span><span class="monospace">: Precision. Insight. Opportunity.</span>
 

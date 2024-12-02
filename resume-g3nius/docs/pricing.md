@@ -58,7 +58,7 @@ At <span class="italic">Resume G3nius</span>, it costs nothing to start a conver
 
 **For Mid-Career Professionals Making Strategic Moves**
 
-<img src="../images/pricing/pro-plan.png" style="display: block; margin: auto; width: 100%; max-width: 800px; margin-bottom: 20px; aspect-ratio: 16 / 9;">
+<img src="../images/pricing/pro-plan.png" class="banner-image">
 
 **What’s Included**:
 
@@ -116,8 +116,7 @@ Gain clarity on your career goals with a personalized one-on-one session.
 
 ## **Custom Solutions for Organizations**
 
-<img src="../images/pricing/group-offer.png"
-     style="display: block; margin: auto; width: 100%; max-width: 800px; margin-bottom: 20px; aspect-ratio: 16 / 9;">
+<img src="../images/pricing/group-offer.png" class="banner-image">
 
 Looking to empower your team or elevate candidates at scale? <span class="italic">Resume G3nius</span> offers bulk resume optimization, LinkedIn enhancements, and tailored career services for organizations.
 
@@ -145,9 +144,7 @@ Your career deserves tools that empower you to shine. Whether it’s a tailored 
 
 [Visit Our Contact Page](contact.md) to start transforming your future today.
 
-<img src="../images/cta-fantasy-contact.png" 
-     alt="Fantasy-inspired glowing message bubbles and ornate email boxes with elvish designs, symbolizing connection and transformation with Resume G3nius" 
-     style="display: block; margin: auto; width: 100%; max-width: 800px; margin-bottom: 20px; aspect-ratio: 16 / 9;">
+<img src="../images/cta-fantasy-contact.png" class="banner-image">
 
 <span class="italic">Resume G3nius</span><span class="monospace">: Precision. Insight. Opportunity.</span>
 

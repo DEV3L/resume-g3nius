@@ -34,7 +34,7 @@ At <span class="italic">Resume G3nius</span>, we believe every career journey is
 
 ## **The Story Behind Resume G3nius**
 
-<img src="../images/about/placeholder-founder.png" alt="Placeholder image representing Justin Beall, founder of Resume G3nius" style="float: right; margin-left: 20px; width: 300px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+<img src="../images/about/placeholder-founder.png" alt="Placeholder image representing Justin Beall, founder of Resume G3nius" style="float: right; margin-left: 20px; width: 250px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
 
 <span class="italic">Resume G3nius</span> was born out of founder Justin Beall’s desire to revolutionize professional branding. After serving as a combat medic, Justin transitioned into the tech industry, where he mastered problem-solving, rapid learning, and strategic thinking. These experiences revealed a critical gap in career services: tools that genuinely empower users to stand out in the job market.
 
@@ -70,9 +70,7 @@ _"I used to dread working on my resume because I overthought every detail. <span
 _"I liked the podcast—it did a good job of making me feel important by addressing me by name and complimenting me. A bit too much on the Pokémon stuff, though!"_  
 — Sephiroth, Creative Director
 
-<img src="../images/about/ff7-inspired-testimonials.png" 
-     alt="An epic, Final Fantasy 7-inspired scene with a glowing career path carved into a futuristic landscape, symbolizing empowerment and determination with Resume G3nius" 
-     style="display: block; margin: auto; width: 100%; max-width: 800px; margin-bottom: 20px; aspect-ratio: 16 / 9;">
+<img src="../images/about/ff7-inspired-testimonials.png" class="banner-image">
 
 ---
 
@@ -87,15 +85,13 @@ We’re driven by principles that guide everything we do:
 
 ---
 
-## **[Transform Your Career with Resume G3nius](contact.md)**
+## **[Transform Your Career with Resume G3nius](../contact.md)**
 
 Your career deserves tools that empower you to shine. Whether it’s a tailored resume, an optimized LinkedIn profile, or insights to guide your next step, <span class="italic">Resume G3nius</span> is here to make it happen.
 
-[Visit Our Contact Page](contact.md) to start transforming your future today.
+[Visit Our Contact Page](../contact.md) to start transforming your future today.
 
-<img src="../images/cta-fantasy-contact.png" 
-     alt="Fantasy-inspired glowing message bubbles and ornate email boxes with elvish designs, symbolizing connection and transformation with Resume G3nius" 
-     style="display: block; margin: auto; width: 100%; max-width: 800px; margin-bottom: 20px; aspect-ratio: 16 / 9;">
+<img src="../images/cta-fantasy-contact.png" class="banner-image">
 
 <span class="italic">Resume G3nius</span><span class="monospace">: Precision. Insight. Opportunity.</span>
 

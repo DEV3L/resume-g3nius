@@ -86,6 +86,4 @@ We're so confident in what we offer that every service is backed by a simple pro
 
 Whether you’re building a new resume, optimizing your LinkedIn profile, or exploring your next big career move, <span class="italic">Resume G3nius</span> is here to help. Start the conversation today—there’s no cost, and no risk.
 
-<img src="../images/contact/resume-g3nius-risk-free-support.png" 
-     alt="A glowing career pathway symbolizing trust, security, and success with <span class='italic'>Resume G3nius</span>" 
-     style="display: block; margin: auto; width: 100%; max-width: 800px; margin-bottom: 20px; aspect-ratio: 16 / 9;">
+<img src="../images/contact/resume-g3nius-risk-free-support.png" class="banner-image">
