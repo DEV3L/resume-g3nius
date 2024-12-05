@@ -1,5 +1,5 @@
 ---
-title: "Unlock Your Career: Pricing | Resume G3nius"
+title: "Pricing | Resume G3nius"
 description: "Explore Resume G3nius pricing plans and find the perfect solution for your career goals. From entry-level resumes to executive branding, we offer plans tailored to your needs."
 keywords:
   - resume pricing
@@ -37,74 +37,178 @@ Everything starts with a conversation. We’re here to listen, understand, and c
 
 ### **Standard Plan**
 
+**Cost: $99** - <span class="italic">Total Value: $175</span>
+
 **Perfect for Entry-Level Professionals, Recent Graduates, and Keep the Lights On**
 
-<img src="../images/pricing/standard-plan.png" alt="A glowing toolkit with entry-level icons, symbolizing the Standard Plan for resume creation" style="display: block; margin: auto; width: 100%; max-width: 400px; aspect-ratio: 5/6; margin-bottom: 20px;">
+<img src="../images/pricing/standard-plan.png" class="img-4-3"
+  alt="A glowing toolkit with entry-level icons, symbolizing the Standard Plan for creation" />
 
-**What’s Included**:
+**[ATS-Optimized Resume](features/resumes.md)** - <span class="italic">($75)</span>
 
-- **ATS-Optimized Resume**: Tailored to your target industry and role to ensure your application gets noticed.
-- **Top 10 Target List**: Personalized recommendations for roles and companies that align with your skills and goals.
-- **One Revision**: Collaborate with our team to refine your resume to perfection.
+- Tailored for Applicant Tracking Systems, ensuring maximum visibility and compliance.
 
-**Additional Benefits**:
+**[Top 10 Target List](features/market-insights.md)** - <span class="italic">($75)</span>
 
-- **No Commitment**: Start your career journey risk-free—no long-term contracts or obligations.
-- **Deep Discounts for Nonprofits and Those in Need**: Special rates available for students, nonprofits, and individuals in financial hardship.
-- **Versatile Applications**: Designed to help you secure immediate opportunities, whether you're pursuing a job to keep the lights on or building toward long-term career goals.
+- A personalized list of companies and roles aligned to your career goals.
 
-<span class="monospace">**Price**: $99</span>  
+**[One Revision](features/resumes.md)** - <span class="italic">($25x)</span>
+
+- Collaborate with our team to refine your resume to perfection.
+
 [Start a Conversation](contact.md)
 
 ---
 
 ### **Pro Plan**
 
+**Cost: $249** - <span class="italic">Total Value: $550</span>
+
 **For Mid-Career Professionals Making Strategic Moves**
 
-<img src="../images/pricing/pro-plan.png" alt="A glowing toolkit with icons representing career advancement, symbolizing the Pro Plan" style="display: block; margin: auto; width: 100%; max-width: 400px; aspect-ratio: 5/6; margin-bottom: 20px;">
+<img src="../images/pricing/pro-plan.png" class="img-4-3"
+  alt="A glowing toolkit with icons representing career advancement, symbolizing a fantasy-themed Pro" />
 
-**What’s Included**:
+<span class="monospace">Everything from the **Standard Plan**</span>
 
-- Everything from the Standard Plan.
-- **Human-Readable Resume**: A visually polished resume tailored for recruiter reviews.
-- **LinkedIn Profile Optimization**: Professionally crafted headlines, summaries, and keyword integration.
-- **Market Insights Report**: Tailored salary insights and industry trends to fit your goals.
-- **Two Revisions**: Refine your materials with our expert feedback.
-- **15-Minute Career Discovery Consultation**: Explore your career goals with a personalized one-on-one session.
+**[Human-Readable Resume](features/resumes.md)** - <span class="italic">($75)</span>
 
-<span class="monospace">**Price**: $249</span>  
+- A polished resume tailored for recruiter engagement.
+
+**[LinkedIn Profile Optimization](features/linkedin.md)** - <span class="italic">($75)</span>
+
+- Professionally crafted headlines, summaries, and keyword integration to boost recruiter visibility.
+
+**[Market Insights Report](features/market-insights.md)** - <span class="italic">($75)</span>
+
+- Tailored salary insights and industry trends to fit your goals.
+
+**[Two Revisions](features/resumes.md)** - <span class="italic">($25x)</span>
+
+- additional revision beyond the Standard Plan.
+
+**[15-Minute Career Discovery Consultation](features/resumes.md)** - <span class="italic">($125)</span>
+
+- A personalized one-on-one session to explore career goals.
+
 [Start a Conversation](contact.md)
 
 ---
 
 ### **Premium Plan**
 
+**Cost: $499** - <span class="italic">Total Value: $1,225</span>
+
 **The Ultimate Career Boost**
 
-<img src="../images/pricing/premium-plan.png" class="img-16-9"
-  alt="A glowing toolkit with premium icons, symbolizing the ultimate career advancement plan" />
+<img src="../images/pricing/premium-plan.png" class="img-4-3"
+  alt="A glowing toolkit with premium icons, symbolizing the ultimate plan" />
 
-**What’s Included**:
+<span class="monospace">Everything from the **Pro Plan**</span>
 
-- Everything from the Pro Plan.
-- **Gamified Personality Insights**: Discover your D&D-style career archetype or Hero’s Journey narrative to showcase your unique strengths.
-- **Personalized Podcast**: Tailored audio insights to inspire and guide your career.
-- **Market Insights Report**: Deep analysis of salaries and trends to help guide decisions.
-- **Additional Revision**: One extra chance to refine your materials.
+**[Gamified Personality Reports](features/personality.md)** - <span class="italic">($200)</span>
 
-<span class="monospace">**Price**: $375</span>  
+- Discover your D&D-style career archetype or Hero’s Journey narrative to showcase your unique strengths.
+
+**[Personalized Podcast](features/notebook-lm.md)** - <span class="italic">($125)</span>
+
+- Tailored audio insights to inspire and guide your career.
+
+**[Mock Scenarios](features/mock-scenarios.md)** - <span class="italic">($100)</span>
+
+- Tailored Interview and Pitch Preparation
+
+**[Ten Revisions](features/resumes.md)** - <span class="italic">($250)</span>
+
 [Start a Conversation](contact.md)
 
 ---
 
 ## **Enhance Your Experience with Add-Ons**
 
-Looking to level up your career tools even further?
+Take your career transformation to the next level by customizing your package with these powerful add-ons. Each offering starts with a base price, and additional revisions are available for enhanced personalization where applicable.
 
-Customize your plan with these powerful add-ons:
+---
 
-### **Gamified Personality Insights**
+<img src="../images/pricing/addon-choices.png" class="img-16-9"
+  alt="A buffet of choices" />
+
+### **1. Resume Optimization**
+
+#### **[ATS-Optimized Resume](features/resumes.md)**
+
+Tailored for Applicant Tracking Systems, ensuring maximum visibility and compliance.  
+**Base Price:** $75  
+**Additional Revisions:** $25 each
+
+#### **[Human-Readable Resume](features/resumes.md)**
+
+Polished and visually appealing, designed for recruiter engagement.  
+**Base Price:** $75  
+**Additional Revisions:** $25 each
+
+---
+
+### **2. Target List**
+
+#### **[Custom Target List](features/market-insights.md)**
+
+Receive a personalized **Top 10 Target List** of roles and companies tailored to your career goals.  
+**Base Price:** $75  
+**Additional Revisions:** $25 each
+
+---
+
+### **4. [LinkedIn Optimization](features/linkedin.md)**
+
+Optimize your LinkedIn profile to maximize visibility, engagement, and alignment with target roles. Includes:
+
+- Headline refinement
+- Summary optimization
+- Keyword alignment
+- Tailored role-specific suggestions
+
+**Base Price:** $75
+**Additional Revisions:** $25 each
+
+---
+
+### **5. [Market Insights Report](features/market-insights.md)**
+
+Gain actionable insights into your career landscape:
+
+- **Salary Benchmarks**
+- **Industry Trends**
+- **Role-Specific Recommendations**
+
+**Base Price:** $75
+**Additional Revisions:** $25 each
+
+---
+
+### **7. [Personalized Podcast](features/notebook-lm.md)**
+
+Receive a custom audio summary of your career insights, motivational guidance, and actionable strategies.  
+**Base Price:** $125  
+**Additional Revisions:** $75 each
+
+---
+
+### **3. Personality Reports**
+
+Discover your professional traits and aspirations with gamified personality insights. Choose individual reports or bundle them for added value.
+
+#### **[Available Personality Report Types](features/personality.md)**
+
+- **Dungeons & Dragons Archetypes**: Align your career to a D&D class like Artificer or Strategist.
+- **Pokémon Profiles**: Map your career growth through evolution stages.
+- **Magic: The Gathering Cards**: Showcase your professional "mana" and leadership.
+- **Hero’s Journey Narrative**: Frame your career as an epic story of transformation.
+
+**Base Price:** $75 per report (without images) or **$200 for the complete set (includes images)**  
+**Additional Revisions:** $50 per report (without images)
+
+#### **[Add-On: High-Quality Personality Images](features/personality.md)**
 
 <img src="../images/character-profiles/dnd-0.png" onclick="nextSlide(0)" class="carousel" />
 <img src="../images/character-profiles/pokemon-0.png" onclick="nextSlide(1)" class="carousel" />
@@ -113,97 +217,70 @@ Customize your plan with these powerful add-ons:
 <img src="../images/character-profiles/dnd-2.png" onclick="nextSlide(4)" class="carousel" />
 <img src="../images/character-profiles/pokemon-2.png" onclick="nextSlide(5)" class="carousel" />
 
-Discover your D&D-style career archetype, Pokémon-style, or Hero’s Journey narrative to showcase your unique strengths.  
-<span class="monospace">**Price**: $50</span>
+Enhance your personality reports with premium, high-resolution visuals, delivered in an interactive carousel format.  
+**Base Price:** $25 per image
+**Revision Price:** $15 per image
 
-### **Personalized Podcast**
+---
 
-Tailored audio insights to inspire and guide your career. Perfect for interview preparation and long-term strategy.  
-<span class="monospace">**Price**: $50</span>
+### **6. [Mock Scenarios](features/mock-scenarios.md)**
 
-### **Market Insights Report**
+Prepare for professional challenges with tailored mock interview scenarios, deep personal reflection, and actionable feedback. Using your career history, target roles, and industry-specific demands, we create realistic scenarios to refine your articulation, strategy, and presentation skills.
 
-Detailed salary benchmarks, industry trends, and role-specific recommendations aligned to your goals.  
-<span class="monospace">**Price**: $25</span>
+#### **What’s Included:**
 
-### **Additional Revisions**
+**Mock Interview Scenarios:**
 
-Need more fine-tuning? Add extra revisions to ensure your materials are flawless.  
-<span class="monospace">**Price**: $25 per revision</span>
+- **Failed Interview Simulation:** Learn how to address gaps and navigate challenging questions with actionable feedback.
+- **Successful Interview Simulation:** Identify key strengths and master storytelling to excel in real-world interviews.
 
-### **15-Minute Career Discovery Consultation**
+**Shark Tank-Style Pitch:**
 
-Gain clarity on your career goals with a personalized one-on-one session.  
-<span class="monospace">**Price**: $125</span>
+- **Targeted Presentation Simulation:** Practice pitching yourself or your projects for leadership roles or executive panels.
+- **Company-Specific Insights:** Align your pitch with the priorities of your target employer.
+
+**Deep Personal Reflection:**
+
+- **Strength and Weakness Exploration:** Gain a deeper understanding of your professional identity and areas for growth.
+- **Purpose Alignment:** Clarify how your personal goals intersect with career aspirations for authentic, impactful storytelling.
+- **Resilience Training:** Develop strategies to handle setbacks and challenges with confidence.
+
+**Base Price:** $100  
+**Additional Revisions:** $50 each
+
+---
+
+### **8. [Career Discovery Consultation](features/resumes.md)**
+
+Discover clarity and direction with a personalized one-on-one session designed to complement your unique career journey. This consultation aligns your professional goals with actionable strategies, ensuring the rest of your services are tailored for maximum impact.
+
+#### **What’s Included:**
+
+- **Personalized Strategy:** Define your career objectives and outline actionable steps to achieve them.
+- **Role Exploration:** Gain insights into industries and positions that fit your skills and aspirations.
+- **Optimized Branding:** Refine your narrative to enhance resumes, LinkedIn profiles, and interview techniques.
+
+#### **Why It’s Essential:**
+
+This consultation ensures your experience with Resume G3nius is as individualized and impactful as possible, setting the foundation for success across all services.
+
+**Base Price:** $125  
+**Additional Sessions (Each 15 Minutes)**: $75
 
 ---
 
 ## **Custom Solutions for Organizations**
 
 <img src="../images/pricing/group-offer.png" class="img-16-9"
-    alt="A group collaboration under a glowing professional banner, symbolizing organizational growth">
+  alt="A glowing professional group collaboration under a futuristic banner" />
 
 At <span class="italic">Resume G3nius</span>, we partner with organizations to elevate their talent pools and workforce through innovative, scalable solutions. Whether you’re a college, staffing agency, or corporate team, we tailor our services to align with your unique goals.
 
-### **What We Offer**:
-
-#### 1. **Bulk ATS-Optimized Resumes**
-
-Efficiently transform large candidate pools into polished, professional resumes tailored for specific industries.
-
-- Improve candidate success rates.
-- Ensure consistency across large volumes of applications.
-
-#### 2. **Team-Wide LinkedIn Optimization**
-
-Equip your team or cohort with standout LinkedIn profiles that boost visibility and professional branding.
-
-- Aligned with company goals and recruiter interests.
-- Training available to sustain long-term results.
-
-#### 3. **Market Insights at Scale**
-
-Provide your team or candidates with real-time industry trends, salary benchmarks, and role-specific recommendations.
-
-- Adapt to changing market demands.
-  - Empower leadership and workforce development.
-
-#### 4. **Gamified Personality Insights**
-
-Enhance team cohesion and individual growth with engaging tools like D&D-style career archetypes and professional personas.
-
-- Ideal for workshops, team-building, and leadership development.
-- Boost team dynamics and collaboration with creative insights.
-
-#### 5. **Tailored Career Development Workshops**
-
-Interactive sessions to refine resumes, LinkedIn profiles, and professional branding.
-
-- Build confidence and clarity for career transitions.
-- Perfect for colleges, boot camps, and professional organizations.
-
-#### 6. **Mock Interviews and Scenarios**
-
-Industry-specific simulations to prepare candidates for success.
-
-- Detailed coaching tailored to different sectors.
-- Sharpen skills and reduce interview anxiety.
-
-[Start a Conversation](contact.md)
+[Learn More About Organizational Services](features.md)
 
 ---
 
-### **Why Resume G3nius?**
-
-At <span class="italic">Resume G3nius</span>, we combine cutting-edge technology with a human touch to redefine professional branding and career growth. Whether you’re an individual looking to transform your career or an organization seeking to empower your team, our solutions are tailored to deliver exceptional results.
-
-- **Scalable and Flexible Solutions**: From single professionals to large organizations, we customize services to fit your unique needs and seamlessly scale to meet your goals.
-- **Innovative and Engaging Tools**: Our gamified features, advanced AI-driven insights, and personalized coaching ensure you or your team stand out in today’s competitive market.
-- **Comprehensive Support**: From ATS-optimized resumes and LinkedIn enhancements to market insights and interview preparation, we guide every step of the journey.
-- **Risk-Free Guarantee**: Your success is our priority. If you’re not completely satisfied, we’ll make it right—or refund your payment.
-- **Affordable and Transparent Pricing**: With flexible pricing and discounts for nonprofits and those in need, we ensure our services are accessible to everyone.
-
-At <span class="italic">Resume G3nius</span>, your career potential or organizational goals are our mission. Empower your journey today with tools, insights, and strategies that work.
+[Visit Our Contact Page](contact.md) to start transforming your future today.
 
 ---
 
