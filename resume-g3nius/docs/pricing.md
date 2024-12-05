@@ -159,7 +159,7 @@ Receive a personalized **Top 10 Target List** of roles and companies tailored to
 
 ---
 
-### **4. [LinkedIn Optimization](features/linkedin.md)**
+### **3. [LinkedIn Optimization](features/linkedin.md)**
 
 Optimize your LinkedIn profile to maximize visibility, engagement, and alignment with target roles. Includes:
 
@@ -173,7 +173,7 @@ Optimize your LinkedIn profile to maximize visibility, engagement, and alignment
 
 ---
 
-### **5. [Market Insights Report](features/market-insights.md)**
+### **4. [Market Insights Report](features/market-insights.md)**
 
 Gain actionable insights into your career landscape:
 
@@ -186,7 +186,7 @@ Gain actionable insights into your career landscape:
 
 ---
 
-### **7. [Personalized Podcast](features/notebook-lm.md)**
+### **5. [Personalized Podcast](features/notebook-lm.md)**
 
 Receive a custom audio summary of your career insights, motivational guidance, and actionable strategies.  
 **Base Price:** $125  
@@ -194,7 +194,7 @@ Receive a custom audio summary of your career insights, motivational guidance, a
 
 ---
 
-### **3. Personality Reports**
+### **6. Personality Reports**
 
 Discover your professional traits and aspirations with gamified personality insights. Choose individual reports or bundle them for added value.
 
@@ -223,7 +223,7 @@ Enhance your personality reports with premium, high-resolution visuals, delivere
 
 ---
 
-### **6. [Mock Scenarios](features/mock-scenarios.md)**
+### **7. [Mock Scenarios](features/mock-scenarios.md)**
 
 Prepare for professional challenges with tailored mock interview scenarios, deep personal reflection, and actionable feedback. Using your career history, target roles, and industry-specific demands, we create realistic scenarios to refine your articulation, strategy, and presentation skills.
 
@@ -277,10 +277,6 @@ This consultation ensures your experience with Resume G3nius is as individualize
 At <span class="italic">Resume G3nius</span>, we partner with organizations to elevate their talent pools and workforce through innovative, scalable solutions. Whether you’re a college, staffing agency, or corporate team, we tailor our services to align with your unique goals.
 
 [Learn More About Organizational Services](features.md)
-
----
-
-[Visit Our Contact Page](contact.md) to start transforming your future today.
 
 ---
 
