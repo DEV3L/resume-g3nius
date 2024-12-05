@@ -14,11 +14,11 @@ date: "2024-11-30"
 
 # About Resume G3nius
 
-<div style="text-align: center; background-image: url('../images/about/resume-g3nius-about-banner.png'); background-size: cover; background-position: center; padding: 60px 0; position: relative; top: -16px;">
-  <div style="position: absolute; inset: 0; background: rgba(0, 0, 0, 0.8);"></div>
-  <h2 style="font-size: 2.75rem; font-weight: 700; margin: 0; position: relative; text-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);">
+<div class="hero-banner" style="background-image: url('../images/about/resume-g3nius-about-banner.png');">
+  <div class="hero-banner-overlay"></div>
+  <p class="hero-banner-title">
     Empowering Careers, One Step at a Time
-  </h2>
+  </p>
 </div>
 
 ---
@@ -75,7 +75,7 @@ _"I used to dread working on my resume because I overthought every detail. <span
 _"I liked the podcast—it did a good job of making me feel important by addressing me by name and complimenting me. A bit too much on the Pokémon stuff, though!"_  
 — Sephiroth, Creative Director
 
-<img src="../images/about/ff7-inspired-testimonials.png" class="banner-image">
+<img src="../images/about/ff7-inspired-testimonials.png" class="img-16-9">
 
 ---
 
@@ -97,7 +97,7 @@ Your career deserves tools that empower you to shine. Whether it’s a tailored 
 
 [Visit Our Contact Page](contact.md) to start transforming your future today.
 
-<img src="../images/cta-fantasy-contact.png" class="banner-image">
+<img src="../images/cta-fantasy-contact.png" class="img-16-9">
 
 <span class="italic">Resume G3nius</span><span class="monospace">: Precision. Insight. Opportunity.</span>
 

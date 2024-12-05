@@ -13,11 +13,11 @@ date: "2024-11-30"
 
 # Contact Resume G3nius
 
-<div style="text-align: center; background-image: url('../images/contact/resume-g3nius-contact-banner.png'); background-size: cover; background-position: center; padding: 60px 0; position: relative; top: -16px;">
-  <div style="position: absolute; inset: 0; background: rgba(0, 0, 0, 0.8);"></div>
-  <h2 style="font-size: 2.75rem; font-weight: 700; margin: 0; position: relative; text-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);">
+<div class="hero-banner" style="background-image: url('../images/contact/resume-g3nius-contact-banner.png');">
+  <div class="hero-banner-overlay"></div>
+  <p class="hero-banner-title">
     Start Your Career Transformation
-  </h2>
+  </p>
 </div>
 
 ---
@@ -91,4 +91,4 @@ We're so confident in what we offer that every service is backed by a simple pro
 
 Whether you’re building a new resume, optimizing your LinkedIn profile, or exploring your next big career move, <span class="italic">Resume G3nius</span> is here to help. Start the conversation today—there’s no cost, and no risk.
 
-<img src="../images/contact/resume-g3nius-risk-free-support.png" class="banner-image">
+<img src="../images/contact/resume-g3nius-risk-free-support.png" class="img-16-9">

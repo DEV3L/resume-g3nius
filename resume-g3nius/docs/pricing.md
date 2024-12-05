@@ -14,11 +14,11 @@ date: "2024-12-01"
 
 # Find Your Deal
 
-<div style="text-align: center; background-image: url('../images/pricing/pricing-hero.png'); background-size: cover; background-position: center; padding: 60px 0; position: relative; top: -16px;">
-  <div style="position: absolute; inset: 0; background: rgba(0, 0, 0, 0.8);"></div>
-  <h2 style="font-size: 2.75rem; font-weight: 700; margin: 0; position: relative; text-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);">
+<div class="hero-banner" style="background-image: url('../images/pricing/pricing-hero.png');">
+  <div class="hero-banner-overlay"></div>
+  <p class="hero-banner-title">
     Empower Your Career
-  </h2>
+  </p>
 </div>
 
 ---
@@ -30,6 +30,10 @@ At <span class="italic">Resume G3nius</span>, it costs nothing to start a conver
 ---
 
 ## **Choose Your Plan**
+
+Everything starts with a conversation. We’re here to listen, understand, and custom tailor solutions to your unique career goals.
+
+---
 
 ### **Standard Plan**
 
@@ -58,7 +62,7 @@ At <span class="italic">Resume G3nius</span>, it costs nothing to start a conver
 
 **For Mid-Career Professionals Making Strategic Moves**
 
-<img src="../images/pricing/pro-plan.png" class="banner-image">
+<img src="../images/pricing/pro-plan.png" alt="A glowing toolkit with icons representing career advancement, symbolizing the Pro Plan" style="display: block; margin: auto; width: 100%; max-width: 400px; aspect-ratio: 5/6; margin-bottom: 20px;">
 
 **What’s Included**:
 
@@ -70,6 +74,26 @@ At <span class="italic">Resume G3nius</span>, it costs nothing to start a conver
 - **15-Minute Career Discovery Consultation**: Explore your career goals with a personalized one-on-one session.
 
 <span class="monospace">**Price**: $249</span>  
+[Start a Conversation](contact.md)
+
+---
+
+### **Premium Plan**
+
+**The Ultimate Career Boost**
+
+<img src="../images/pricing/premium-plan.png" class="img-16-9"
+  alt="A glowing toolkit with premium icons, symbolizing the ultimate career advancement plan" />
+
+**What’s Included**:
+
+- Everything from the Pro Plan.
+- **Gamified Personality Insights**: Discover your D&D-style career archetype or Hero’s Journey narrative to showcase your unique strengths.
+- **Personalized Podcast**: Tailored audio insights to inspire and guide your career.
+- **Market Insights Report**: Deep analysis of salaries and trends to help guide decisions.
+- **Additional Revision**: One extra chance to refine your materials.
+
+<span class="monospace">**Price**: $375</span>  
 [Start a Conversation](contact.md)
 
 ---
@@ -116,25 +140,70 @@ Gain clarity on your career goals with a personalized one-on-one session.
 
 ## **Custom Solutions for Organizations**
 
-<img src="../images/pricing/group-offer.png" class="banner-image">
+<img src="../images/pricing/group-offer.png" class="img-16-9"
+    alt="A group collaboration under a glowing professional banner, symbolizing organizational growth">
 
-Looking to empower your team or elevate candidates at scale? <span class="italic">Resume G3nius</span> offers bulk resume optimization, LinkedIn enhancements, and tailored career services for organizations.
+At <span class="italic">Resume G3nius</span>, we partner with organizations to elevate their talent pools and workforce through innovative, scalable solutions. Whether you’re a college, staffing agency, or corporate team, we tailor our services to align with your unique goals.
 
-**Key Features**:
+### **What We Offer**:
 
-- Bulk ATS-optimized resumes for candidate pools.
-- Team-wide LinkedIn optimization and training.
-- Gamified personality insights for team dynamics.
+#### 1. **Bulk ATS-Optimized Resumes**
+
+Efficiently transform large candidate pools into polished, professional resumes tailored for specific industries.
+
+- Improve candidate success rates.
+- Ensure consistency across large volumes of applications.
+
+#### 2. **Team-Wide LinkedIn Optimization**
+
+Equip your team or cohort with standout LinkedIn profiles that boost visibility and professional branding.
+
+- Aligned with company goals and recruiter interests.
+- Training available to sustain long-term results.
+
+#### 3. **Market Insights at Scale**
+
+Provide your team or candidates with real-time industry trends, salary benchmarks, and role-specific recommendations.
+
+- Adapt to changing market demands.
+  - Empower leadership and workforce development.
+
+#### 4. **Gamified Personality Insights**
+
+Enhance team cohesion and individual growth with engaging tools like D&D-style career archetypes and professional personas.
+
+- Ideal for workshops, team-building, and leadership development.
+- Boost team dynamics and collaboration with creative insights.
+
+#### 5. **Tailored Career Development Workshops**
+
+Interactive sessions to refine resumes, LinkedIn profiles, and professional branding.
+
+- Build confidence and clarity for career transitions.
+- Perfect for colleges, boot camps, and professional organizations.
+
+#### 6. **Mock Interviews and Scenarios**
+
+Industry-specific simulations to prepare candidates for success.
+
+- Detailed coaching tailored to different sectors.
+- Sharpen skills and reduce interview anxiety.
+
+[Start a Conversation](contact.md)
 
 ---
 
-## **Why Choose Resume G3nius?**
+### **Why Resume G3nius?**
 
-At <span class="italic">Resume G3nius</span>, we combine cutting-edge technology with personalized service to deliver results that exceed expectations. No matter which plan you choose, you’ll benefit from:
+At <span class="italic">Resume G3nius</span>, we combine cutting-edge technology with a human touch to redefine professional branding and career growth. Whether you’re an individual looking to transform your career or an organization seeking to empower your team, our solutions are tailored to deliver exceptional results.
 
-- **AI-Driven Precision**: Cutting-edge tools to align your materials with industry trends.
-- **Personalized Service**: Every detail tailored to your unique journey.
-- **Risk-Free Guarantee**: If you’re not satisfied, we’ll make it right—or refund your payment.
+- **Scalable and Flexible Solutions**: From single professionals to large organizations, we customize services to fit your unique needs and seamlessly scale to meet your goals.
+- **Innovative and Engaging Tools**: Our gamified features, advanced AI-driven insights, and personalized coaching ensure you or your team stand out in today’s competitive market.
+- **Comprehensive Support**: From ATS-optimized resumes and LinkedIn enhancements to market insights and interview preparation, we guide every step of the journey.
+- **Risk-Free Guarantee**: Your success is our priority. If you’re not completely satisfied, we’ll make it right—or refund your payment.
+- **Affordable and Transparent Pricing**: With flexible pricing and discounts for nonprofits and those in need, we ensure our services are accessible to everyone.
+
+At <span class="italic">Resume G3nius</span>, your career potential or organizational goals are our mission. Empower your journey today with tools, insights, and strategies that work.
 
 ---
 
@@ -144,7 +213,7 @@ Your career deserves tools that empower you to shine. Whether it’s a tailored 
 
 [Visit Our Contact Page](contact.md) to start transforming your future today.
 
-<img src="../images/cta-fantasy-contact.png" class="banner-image">
+<img src="../images/cta-fantasy-contact.png" class="img-16-9">
 
 <span class="italic">Resume G3nius</span><span class="monospace">: Precision. Insight. Opportunity.</span>
 

@@ -14,11 +14,11 @@ date: "2024-12-02"
 
 # Resume Optimization
 
-<div style="text-align: center; background-image: url('../../images/features/resume-banner.png'); background-size: cover; background-position: center; padding: 60px 0; position: relative; top: -16px;">
-  <div style="position: absolute; inset: 0; background: rgba(0, 0, 0, 0.8);"></div>
-  <h2 style="font-size: 2.75rem; font-weight: 700; margin: 0; position: relative; text-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);">
+<div class="hero-banner" style="background-image: url('../../images/features/resume-banner.png');">
+  <div class="hero-banner-overlay"></div>
+  <p class="hero-banner-title">
     Tailored Resumes That Get Results
-  </h2>
+  </p>
 </div>
 
 ---
@@ -32,7 +32,7 @@ date: "2024-12-02"
 - **ATS-Compliant Resumes**: Keyword-rich resumes designed to navigate ATS filters and algorithms seamlessly.
 - **Human-Readable Resumes**: Visually appealing resumes tailored to recruiter preferences, showcasing your value at a glance.
 
-<img src="../../images/features/resume-preview.png" class="wider-image">
+<img src="../../images/features/resume-preview.png" class="img-3-4">
 
 ---
 
@@ -55,7 +55,7 @@ Your resume is the gateway to your next opportunity. Let <span class="italic">Re
 
 [Start the Conversation](../contact.md)
 
-<img src="../../images/cta-fantasy-contact.png" class="banner-image">
+<img src="../../images/cta-fantasy-contact.png" class="img-16-9">
 
 <span class="italic">Resume G3nius</span><span class="monospace">: Precision. Insight. Opportunity.</span>
 

@@ -14,11 +14,11 @@ date: "2024-12-02"
 
 # LinkedIn Optimization
 
-<div style="text-align: center; background-image: url('../../images/features/linkedin-banner.png'); background-size: cover; background-position: center; padding: 60px 0; position: relative; top: -16px;">
-  <div style="position: absolute; inset: 0; background: rgba(0, 0, 0, 0.8);"></div>
-  <h2 style="font-size: 2.75rem; font-weight: 700; margin: 0; position: relative; text-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);">
+<div class="hero-banner" style="background-image: url('../../images/features/linkedin-banner.png');">
+  <div class="hero-banner-overlay" />
+  <p class="hero-banner-title">
     Stand Out on LinkedIn
-  </h2>
+  </p>
 </div>
 
 ---
@@ -33,7 +33,8 @@ At <span class="italic">Resume G3nius</span>, we turn your LinkedIn profile into
 - **Keyword Optimization**: Ensure your profile aligns with industry trends and market demands.
 - **Professional Summaries**: Showcase your skills, achievements, and aspirations with precision and clarity.
 
-<img src="../../images/features/linkedin-preview.png" alt="A glowing LinkedIn profile towering above a mystical landscape, symbolizing professional growth" style="display: block; margin: auto; width: 100%; max-width: 400px; aspect-ratio: 3/4; margin-bottom: 20px;">
+<img src="../../images/features/linkedin-preview.png" class="img-3-4"
+  alt="A glowing LinkedIn profile towering above a mystical landscape, symbolizing professional growth" />
 
 ---
 
@@ -56,7 +57,7 @@ Your LinkedIn profile is more than a page—it’s your professional story. Let 
 
 [Start the Conversation](../contact.md)
 
-<img src="../../images/cta-fantasy-contact.png" class="banner-image">
+<img src="../../images/cta-fantasy-contact.png" class="img-16-9" />
 
 <span class="italic">Resume G3nius</span><span class="monospace">: Precision. Insight. Opportunity.</span>
 

@@ -14,11 +14,11 @@ date: "2024-12-01"
 
 # Unlock Your Career Potential
 
-<div style="text-align: center; background-image: url('../images/services/services-hero.png'); background-size: cover; background-position: center; padding: 60px 0; position: relative; top: -16px;">
-  <div style="position: absolute; inset: 0; background: rgba(0, 0, 0, 0.8);"></div>
-  <h2 style="font-size: 2.75rem; font-weight: 700; margin: 0; position: relative; text-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);">
+<div class="hero-banner" style="background-image: url('../images/services/services-hero.png');">
+  <div class="hero-banner-overlay"></div>
+  <p class="hero-banner-title">
     Transform Your Career Journey
-  </h2>
+  </p>
 </div>
 
 ---
@@ -31,7 +31,8 @@ At <span class="italic">Resume G3nius</span>, we offer a comprehensive suite of 
 
 ### **Tailored Resumes**
 
-<img src="../images/services/tailored-resumes.png" alt="A glowing resume surrounded by digital glyphs, symbolizing ATS-friendly optimization and standout design" style="display: block; margin: auto; width: 100%; max-width: 600px; aspect-ratio: 4/3; margin-bottom: 20px;">
+<img src="../images/services/tailored-resumes.png" class="img-4-3"
+  alt="A glowing resume surrounded by digital glyphs, symbolizing ATS-friendly optimization and standout design" />
 
 Craft resumes that stand out to both humans and ATS systems. Our tailored resume service highlights your strengths, aligns with industry trends, and ensures your application makes it to the top of the pile.
 
@@ -47,7 +48,8 @@ Craft resumes that stand out to both humans and ATS systems. Our tailored resume
 
 ### **LinkedIn Optimization**
 
-<img src="../images/services/linkedin-optimization.png" alt="A glowing LinkedIn profile surrounded by geometric patterns, symbolizing professional visibility and networking success" style="display: block; margin: auto; width: 100%; max-width: 600px; aspect-ratio: 4/3; margin-bottom: 20px;">
+<img src="../images/services/linkedin-optimization.png" class="img-4-3"
+  alt="A glowing LinkedIn profile surrounded by geometric patterns, symbolizing professional visibility and networking success" />
 
 Maximize your professional visibility with a fully optimized LinkedIn profile. We craft compelling headlines, summaries, and keyword-rich skills to attract recruiters and expand your network.
 
@@ -63,7 +65,8 @@ Maximize your professional visibility with a fully optimized LinkedIn profile. W
 
 ### **Gamified Personality Insights**
 
-<img src="../images/services/personality-insights.png" alt="A glowing career archetype card with mystical glyphs, symbolizing gamified insights into personal strengths" style="display: block; margin: auto; width: 100%; max-width: 600px; aspect-ratio: 4/3; margin-bottom: 20px;">
+<img src="../images/services/personality-insights.png" class="img-4-3"
+  alt="A glowing career archetype card with mystical glyphs, symbolizing gamified insights into personal strengths" />
 
 Uncover your unique professional strengths with gamified insights. Whether it’s your D&D career archetype or a Pokémon-inspired professional persona, we help you tell your story in a way that resonates.
 
@@ -79,7 +82,8 @@ Uncover your unique professional strengths with gamified insights. Whether it’
 
 ### **Notebook LM Podcasts**
 
-<img src="../images/services/notebook-podcast.png" alt="A glowing podcast interface with career-related icons, symbolizing personalized audio coaching" style="display: block; margin: auto; width: 100%; max-width: 600px; aspect-ratio: 4/3; margin-bottom: 20px;">
+<img src="../images/services/notebook-podcast.png" class="img-4-3"
+  alt="A glowing podcast interface with career-related icons, symbolizing personalized audio coaching" />
 
 Personalized audio coaching to keep you inspired and focused. Our podcasts are tailored to your career journey, blending actionable insights with motivating narratives.
 
@@ -95,7 +99,8 @@ Personalized audio coaching to keep you inspired and focused. Our podcasts are t
 
 ### **Market Insights**
 
-<img src="../images/services/market-insights.png" alt="A glowing digital roadmap with career pathways illuminated, symbolizing actionable market insights" style="display: block; margin: auto; width: 100%; max-width: 600px; aspect-ratio: 4/3; margin-bottom: 20px;">
+<img src="../images/services/market-insights.png" class="img-4-3"
+  alt="A glowing digital roadmap with career pathways illuminated, symbolizing actionable market insights" />
 
 Stay ahead of the competition with real-time market insights. From salary benchmarks to industry trends, we provide the data you need to make informed decisions.
 
@@ -106,6 +111,23 @@ Stay ahead of the competition with real-time market insights. From salary benchm
 - Tailored reports to guide your career planning.
 
 [Learn More](features/market-insights.md)
+
+---
+
+### **Mock Scenarios**
+
+<img src="../images/features/mock-scenarios.png" class="img-3-2"
+  alt="A professional in a glowing interview room, surrounded by icons representing preparation and confidence" />
+
+Prepare for success with realistic, role-specific mock scenarios. Whether it’s a technical interview, pitch presentation, or leadership assessment, our tailored scenarios help you build confidence and refine your approach.
+
+**Key Features**:
+
+- Realistic, industry-specific mock interviews.
+- Detailed feedback and actionable coaching tips.
+- Simulated presentations to refine articulation and persuasion skills.
+
+[Learn More](features/mock-scenarios.md)
 
 ---
 
@@ -127,7 +149,7 @@ Your career deserves tools that empower you to shine. Whether it’s a tailored 
 
 [Visit Our Contact Page](contact.md) to start transforming your future today.
 
-<img src="../images/cta-fantasy-contact.png" class="banner-image">
+<img src="../images/cta-fantasy-contact.png" class="img-16-9" />
 
 <span class="italic">Resume G3nius</span><span class="monospace">: Precision. Insight. Opportunity.</span>
 

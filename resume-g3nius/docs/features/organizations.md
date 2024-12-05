@@ -7,18 +7,18 @@ keywords:
   - organizational career services
   - custom professional branding
   - gamified team insights
-image: "../../images/organizations/organizations-banner.png"
+image: "../../images/features/organizations-banner.png"
 author: "Resume G3nius"
 date: "2024-12-02"
 ---
 
 # Custom Solutions for Organizations
 
-<div style="text-align: center; background-image: url('../../images/organizations/organizations-banner.png'); background-size: cover; background-position: center; padding: 60px 0; position: relative; top: -16px;">
-  <div style="position: absolute; inset: 0; background: rgba(0, 0, 0, 0.8);"></div>
-  <h2 style="font-size: 2.75rem; font-weight: 700; margin: 0; position: relative; text-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);">
+<div class="hero-banner" style="background-image: url('../../images/features/organizations-banner.png');">
+  <div class="hero-banner-overlay"></div>
+  <p class="hero-banner-title">
     Power in Unity
-  </h2>
+  </p>
 </div>
 
 ---
@@ -33,7 +33,7 @@ At <span class="italic">Resume G3nius</span>, we understand the importance of al
 - **Team LinkedIn Enhancements**: Boost team visibility and cohesion with optimized profiles aligned to your organization’s brand.
 - **Gamified Personality Insights**: Foster team dynamics with interactive, narrative-driven profiles that highlight strengths and opportunities.
 
-<img src="../../images/organizations/organizations-preview.png" alt="A horde of professionals unified under glowing glyph banners, symbolizing collective career success" style="display: block; margin: auto; width: 100%; max-width: 400px; aspect-ratio: 3/4; margin-bottom: 20px;">
+<img src="../../images/features/organizations-preview.png" alt="A horde of professionals unified under glowing glyph banners, symbolizing collective career success" style="display: block; margin: auto; width: 100%; max-width: 400px; aspect-ratio: 3/4; margin-bottom: 20px;">
 
 ---
 
@@ -61,7 +61,7 @@ Whether you're preparing candidates for their next opportunity or enhancing team
 
 [Start the Conversation](../contact.md)
 
-<img src="../../images/cta-fantasy-contact.png" class="banner-image">
+<img src="../../images/cta-fantasy-contact.png" class="img-16-9">
 
 <span class="italic">Resume G3nius</span><span class="monospace">: Precision. Insight. Opportunity.</span>
 

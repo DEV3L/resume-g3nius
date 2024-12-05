@@ -14,11 +14,11 @@ date: "2024-12-02"
 
 # Unleash Your Potential
 
-<div style="text-align: center; background-image: url('../images/features/features-hero.png'); background-size: cover; background-position: center; padding: 60px 0; position: relative; top: -16px;">
-  <div style="position: absolute; inset: 0; background: rgba(0, 0, 0, 0.8);"></div>
-  <h2 style="font-size: 2.75rem; font-weight: 700; margin: 0; position: relative; text-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);">
+<div class="hero-banner" style="background-image: url('../images/features/features-hero.png');">
+  <div class="hero-banner-overlay" />
+  <p class="hero-banner-title">
     Empower Your Career
-  </h2>
+  </p>
 </div>
 
 ---
@@ -31,7 +31,7 @@ Resume G3nius combines cutting-edge AI, gamification, and dynamic personalizatio
 
 ### **1. Resume Optimization**
 
-<img src="../images/features/resume-optimization.png" class="wide-image" />
+<img src="../images/features/resume-optimization.png" class="img-3-2" />
 
 **Craft Resumes That Get Results**
 
@@ -46,7 +46,7 @@ Enhance your career materials with AI-powered resume optimization tailored for b
 
 ### **2. LinkedIn Suggestions Report**
 
-<img src="../images/features/linkedin-optimization.png" class="wide-image" />
+<img src="../images/features/linkedin-optimization.png" class="img-3-2" />
 
 **Stand Out on LinkedIn**
 
@@ -61,7 +61,7 @@ Build a professional, keyword-optimized profile that enhances visibility and eng
 
 ### **3. Career and Market Analysis Report**
 
-<img src="../images/features/market-insights.png" class="wide-image" />
+<img src="../images/features/market-insights.png" class="img-3-2" />
 
 **Navigate the Job Market with Confidence**
 
@@ -76,7 +76,7 @@ Access real-time market data and tailored insights to align your career with evo
 
 ### **4. Professional Mock Scenarios Report**
 
-<img src="../images/features/mock-scenarios.png" class="wide-image" />
+<img src="../images/features/mock-scenarios.png" class="img-3-2" />
 
 **Prepare for High-Stakes Scenarios**
 
@@ -91,7 +91,7 @@ Gain confidence with tailored mock interviews and exercises that refine articula
 
 ### **5. Professional Personality Profiles**
 
-<img src="../images/features/personality-insights.png" class="wide-image" />
+<img src="../images/features/personality-insights.png" class="img-3-2" />
 
 **Discover Your Unique Strengths**
 
@@ -107,7 +107,7 @@ Unleash your potential with gamified personality insights and narrative-driven p
 
 ### **6. Notebook LM Motivational Summary Podcast**
 
-<img src="../images/features/podcast-summary.png" class="wide-image" />
+<img src="../images/features/podcast-summary.png" class="img-3-2" />
 
 **Stay Inspired on Your Career Journey**
 
@@ -122,7 +122,7 @@ Listen to personalized audio insights crafted to guide and motivate you.
 
 ## **Custom Solutions for Organizations**
 
-<img src="../images/features/group-offer.png" class="banner-image">
+<img src="../images/features/group-offer.png" class="img-16-9">
 
 Looking to empower your team or elevate candidates at scale? <span class="italic">Resume G3nius</span> offers bulk resume optimization, LinkedIn enhancements, and tailored career services for organizations.
 
@@ -153,7 +153,7 @@ Your career deserves tools that empower you to shine. Whether it’s a tailored 
 
 [Visit Our Contact Page](../contact.md) to start transforming your future today.
 
-<img src="../images/cta-fantasy-contact.png" class="banner-image">
+<img src="../images/cta-fantasy-contact.png" class="img-16-9">
 
 <span class="italic">Resume G3nius</span><span class="monospace">: Precision. Insight. Opportunity.</span>
 

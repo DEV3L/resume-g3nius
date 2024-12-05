@@ -60,28 +60,46 @@ footer.md-footer {
 
 /* image styling */
 
-.banner-image {
+.img-16-9 {
   display: block;
   margin: auto;
   width: 100%;
   max-width: 800px;
   margin-bottom: 20px;
-  aspect-ratio: 16 / 9;
+  aspect-ratio: 16/9;
 }
 
-.wide-image {
+.img-3-2 {
   display: block;
   margin: auto;
   width: 100%;
   max-width: 450px;
-  aspect-ratio: 3 / 2;
+  aspect-ratio: 3/2;
   margin-bottom: 20px;
 }
 
-.wider-image {
+.img-3-4 {
   display: block;
   margin: auto;
   max-height: 500px;
-  aspect-ratio: 3 / 4;
+  aspect-ratio: 3/4;
+  margin-bottom: 20px;
+}
+
+.img-5-6 {
+  display: block;
+  margin: auto;
+  width: 100%;
+  max-width: 450px;
+  aspect-ratio: 5/6;
+  margin-bottom: 20px;
+}
+
+.img-4-3 {
+  display: block;
+  margin: auto;
+  width: 100%;
+  max-width: 600px;
+  aspect-ratio: 4/3;
   margin-bottom: 20px;
 }

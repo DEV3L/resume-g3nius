@@ -14,11 +14,11 @@ date: "2024-12-02"
 
 # Gamified Personality Insights
 
-<div style="text-align: center; background-image: url('../../images/features/personality-banner.png'); background-size: cover; background-position: center; padding: 60px 0; position: relative; top: -16px;">
-  <div style="position: absolute; inset: 0; background: rgba(0, 0, 0, 0.8);"></div>
-  <h2 style="font-size: 2.75rem; font-weight: 700; margin: 0; position: relative; text-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);">
+<div class="hero-banner" style="background-image: url('../../images/features/personality-banner.png');">
+  <div class="hero-banner-overlay"></div>
+  <p class="hero-banner-title">
     Discover Your Unique Strengths
-  </h2>
+  </p>
 </div>
 
 ---
@@ -67,7 +67,7 @@ Your career is an epic journey, and understanding your unique strengths is the f
 
 [Start the Conversation](../contact.md)
 
-<img src="../../images/cta-fantasy-contact.png" class="banner-image">
+<img src="../../images/cta-fantasy-contact.png" class="img-16-9">
 
 <span class="italic">Resume G3nius</span><span class="monospace">: Precision. Insight. Opportunity.</span>
 

@@ -14,11 +14,11 @@ date: "2024-11-30"
 
 # Summon Your Dream Career
 
-<div style="text-align: center; background-image: url('images/home/hero-banner.png'); background-size: cover; background-position: center; padding: 60px 0; position: relative; top: -16px;">
-  <div style="position: absolute; inset: 0; background: rgba(0, 0, 0, 0.8);"></div>
-  <h2 style="font-size: 3.5rem; font-weight: 700; margin: 0; position: relative; text-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);">
-    <span class="italic">Resume G3nius</span>
-  </h2>
+<div class="hero-banner" style="background-image: url('images/home/hero-banner.png');">
+  <div class="hero-banner-overlay"></div>
+  <p class="hero-banner-title">
+    Resume G3nius
+  </p>
 </div>
 
 > <span class="monospace">Unlock tools, insights, and strategies for your career success</span>
@@ -45,7 +45,8 @@ Discover how <span class="italic">Resume G3nius</span> can transform your career
 
 ## **Your Career Toolkit**
 
-<img src="images/home/unlock-tools.png" alt="A glowing toolkit symbolizing professional career tools and empowerment" style="display: block; margin: auto; width: 100%; max-width: 450px; aspect-ratio: 5/6; margin-bottom: 20px;">
+<img src="images/home/unlock-tools.png" class="img-5-6" 
+    alt="A glowing toolkit symbolizing professional career tools and empowerment">
 
 <span class="italic">Resume G3nius</span> equips you with a powerful suite of tools designed to transform your professional journey:
 
@@ -75,9 +76,8 @@ Every career journey is unique. At <span class="italic">Resume G3nius</span>, we
 
 ### **A New Perspective**
 
-<img src="images/home/alchemist-transformation.png" 
-     alt="A professional holding an enchanted resume glowing with amber and white energy. Behind them, faint glyphs float in a slate-grey gradient background, symbolizing transformation and newfound confidence in their career journey." 
-     style="display: block; margin: auto; width: 100%; max-width: 600px; aspect-ratio: 4/3; margin-bottom: 20px;">
+<img src="images/home/alchemist-transformation.png" class="img-4-3"
+     alt="A professional holding an enchanted resume glowing with amber and white energy. Behind them, faint glyphs float in a slate-grey gradient background, symbolizing transformation and newfound confidence in their career journey.">
 
 _"Resume G3nius provided me with clarity and confidence. I used to dread working on my resume, but their tools helped me focus on presenting my value effectively. It worked—I landed a new role within weeks!"_  
 — **Cid Highwind**, Operations Specialist
@@ -86,7 +86,8 @@ _"Resume G3nius provided me with clarity and confidence. I used to dread working
 
 ### **Refining the Vision**
 
-<img src="images/home/refining-the-vision.png" alt="A professional sitting at a desk with glowing tools, symbolizing clarity and confidence in their career goals" style="display: block; margin: auto; width: 100%; max-width: 450px; aspect-ratio: 5/6; margin-bottom: 20px;">
+<img src="images/home/refining-the-vision.png" class="img-5-6"
+    alt="A professional sitting at a desk with glowing tools, symbolizing clarity and confidence in their career goals">
 
 _"With Resume G3nius, my LinkedIn profile was completely transformed. Their keyword-rich recommendations increased my visibility, and I received multiple interview invitations in less than a month."_  
 — **Aerith Gainsborough**, Marketing Consultant
@@ -95,7 +96,8 @@ _"With Resume G3nius, my LinkedIn profile was completely transformed. Their keyw
 
 ### **Reclaiming Confidence**
 
-<img src="images/home/seekers-triumph.png" alt="A young professional celebrating their interim job success with glowing career tools" style="display: block; margin: auto; width: 100%; max-width: 600px; aspect-ratio: 4/3; margin-bottom: 20px;">
+<img src="images/home/seekers-triumph.png" class="img-4-3"
+    alt="A young professional celebrating their interim job success with glowing career tools">
 
 _"After struggling to present my professional strengths, Resume G3nius completely changed the game for me. Their personalized podcast and resume optimization gave me the confidence I needed to secure my dream job."_  
 — **Red XIII**, Creative Director
@@ -104,7 +106,8 @@ _"After struggling to present my professional strengths, Resume G3nius completel
 
 ### **A Professional Edge**
 
-<img src="images/home/professional-edge.png" alt="A glowing, futuristic resume floating above a digital landscape, symbolizing career success and transformation" style="display: block; margin: auto; width: 100%; max-width: 600px; aspect-ratio: 4/3; margin-bottom: 20px;">
+<img src="images/home/professional-edge.png" class="img-4-3"
+    alt="A glowing, futuristic resume floating above a digital landscape, symbolizing career success and transformation">
 
 _"Resume G3nius provided a level of professionalism and detail I’ve never seen before. They highlighted experiences I hadn’t even considered and delivered a resume that truly reflected my leadership potential."_  
 — **President Shinra**, Corporate Executive
@@ -113,7 +116,7 @@ _"Resume G3nius provided a level of professionalism and detail I’ve never seen
 
 ## **Embark on Your Journey Today**
 
-<img src="images/home/embark-journey.png" class="banner-image">
+<img src="images/home/embark-journey.png" class="img-16-9">
 
 Your dream job awaits, and <span class="italic">Resume G3nius</span> is here to make it happen. With precision-crafted tools and personalized guidance, we’re your partner in professional growth.
 
@@ -125,7 +128,7 @@ Your career deserves tools that empower you to shine. Whether it’s a tailored 
 
 [Visit Our Contact Page](contact.md) to start transforming your future today.
 
-<img src="images/cta-fantasy-contact.png" class="banner-image">
+<img src="images/cta-fantasy-contact.png" class="img-16-9">
 
 <span class="italic">Resume G3nius</span><span class="monospace">: Precision. Insight. Opportunity.</span>
 
